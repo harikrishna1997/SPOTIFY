@@ -1,3 +1,11 @@
+<img width="1726" alt="Screenshot 2023-10-07 at 6 12 27 PM" src="https://github.com/harikrishna1997/SPOTIFY/assets/42584737/3db6f9e6-78d1-4222-971b-d529d2bfcd6f">
+<img width="1716" alt="Screenshot 2023-10-07 at 6 11 44 PM" src="https://github.com/harikrishna1997/SPOTIFY/assets/42584737/c4457f28-13bd-4d50-9ac1-acd2639d4e0e">
+
+
+
+
+
+
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
